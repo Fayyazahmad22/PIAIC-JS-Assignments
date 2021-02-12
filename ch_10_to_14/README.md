@@ -14,3 +14,4 @@ Java-script assignments chapter 10 to 14
 var totalMarks = 500
 2. Calculate the total percentage ``` formula:  obtainedMarks * 100/ totalMarks ```
 3. print output in alert.
+
